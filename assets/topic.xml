@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+
+	<!-- lesson setup -->
+	<setup>
+	
+		<!-- The lesson name REQUIRED -->
+		<lesson>PSAS350 - Chapter Three</lesson>
+		
+		<!-- The instructor's name REQUIRED -->
+		<instructor>Demo</instructor>
+		
+		<!--
+			The name of the folder that contains the slide images.
+			Leave it empty will default to the value of "slides".
+		-->
+		<slideFolder />
+		
+		<!--
+			The name of the slide images.
+			Leave it empty will default to the value of "slide".
+			NOTE: You do not need to put the two-digit number after it.
+		-->
+		<slideName />
+		
+		<!--
+			The slide image file format (png, jpg, or gif).
+			Leave it empty will default to png.
+		-->
+		<imgType />
+		
+		<!--
+			NOTE: If any tags are empty (or set to default value), it can be
+			written like this: <slideFolder />. If not, it should be
+			written like this: <slideFolder>...</slideFolder> where ... is
+			the whatever the value that needs to be there.
+		-->
+		
+	</setup>
+	
+	<!-- instructor or lesson information -->
+	<profile><![CDATA[<p>Oh, hello! Hey! Hi! This is a demo of the Storyboard Player (SBP). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut purus augue. Vestibulum at leo nisi. Donec malesuada, sem vel venenatis iaculis, augue augue luctus diam, quis rhoncus velit velit non nunc. Aliquam cursus cursus erat, sed cursus orci fringilla sit amet. In malesuada vulputate nisi, elementum facilisis est mattis quis. Aenean dignissim dui sed elit pretium ut ultricies nisi fringilla. Praesent diam nisi, ornare elementum egestas at, tristique sed turpis. Sed et consequat metus. Suspendisse pharetra vulputate augue in pharetra. Fusce dictum metus vel sapien aliquet molestie. Nullam a interdum erat. Pellentesque convallis ullamcorper ipsum, vitae feugiat libero lacinia vel.</p></p>Oh, hello! Hey! Hi! This is a demo of the Storyboard Player (SBP). Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer ut purus augue. Vestibulum at leo nisi. Donec malesuada, sem vel venenatis iaculis, augue augue luctus diam, quis rhoncus velit velit non nunc. Aliquam cursus cursus erat, sed cursus orci fringilla sit amet. In malesuada vulputate nisi, elementum facilisis est mattis quis. Aenean dignissim dui sed elit pretium ut ultricies nisi fringilla. Praesent diam nisi, ornare elementum egestas at, tristique sed turpis. Sed et consequat metus. Suspendisse pharetra vulputate augue in pharetra. Fusce dictum metus vel sapien aliquet molestie. Nullam a interdum erat. Pellentesque convallis ullamcorper ipsum, vitae feugiat libero lacinia vel.</p>]]></profile>
+	
+	<!-- topic list -->
+	<topic title="Basic Concepts of Variables"><![CDATA[<mono>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type 1&nbsp;&nbsp;Type 2&nbsp;&nbsp;Type 3&nbsp;&nbsp;Type 4<br>Cat&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;43&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;82&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;23<br>Dog&nbsp;&nbsp;&nbsp;&nbsp;89&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;77&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;22<br>Mouse&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;18&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;102</mono><br><p>Phew! This take a lot of work! Formatting that is... Anyway &lt;mono&gt; tag is what you need.</p>]]></topic>
+	
+	<topic title="Chapter Outline"><![CDATA[<p>Hello, PSAS Friends, This chapter will be focused on variables only. You will be introduced to a various variables that are most commonly used in your research work and in social life. Since the concepts of these variable are defined and discussed in the slides, for the notes section, however, I will give you some examples to help you understand better the concepts so that you can comprehend the variables in  depth. In addition, these notes will pinpoint independent, dependent, continuous, discrete, nominal/categorical variables.</p>  
+]]></topic>
+	
+	<topic title="Variables"><![CDATA[<p>A quote from an internet source for defining a variable:<br /><br />You won't be able to do very much in research unless you know how to talk about variables. A <strong><em>variable</em></strong> is <em>any entity that can take on different values</em>. OK, so what does that mean? Anything that can vary can be considered a variable. For instance, <em>age</em> can be considered a variable because age can take different values for different people or for the same person at different times. Similarly, <em>country</em> can be considered a variable because a person's country can be assigned a value.</p><p><a href="http://www.socialresearchmethods.net/kb/variable.php" target="_blank">http://www.socialresearchmethods.net/kb/variable.php</a></p>]]></topic>
+	
+	<topic title="Variable Examples"><![CDATA[<p>No notes available for this slide.</p>]]></topic>
+	
+	<topic title="Diverse Variables - Examples"><![CDATA[<p>The distinction between the above categories of demographic, economic, social, or psychological variables varies, depending on how the research define them. Therefore when you use these terms, you should also give them a definition supported by literature.
+</p>]]></topic>
+
+	<topic title="Constant"><![CDATA[<p>Constant is not our focus in doing social science research but is necessary to know the concept of it.</p>]]></topic>
+	
+	<topic title="Constant Examples"><![CDATA[<p>No notes available for this slide.</p>]]></topic>
+	
+	<topic title="Independent Variables"><![CDATA[<p>Here is an example of definition:<br />
+An <span style="text-decoration:underline;">independent</span> variable, sometimes called an <span style="text-decoration:underline;">experimental</span> or <span style="text-decoration:underline;">predictor</span> variable, is a variable that is being manipulated in an experiment in order to observe the effect on a <span style="text-decoration:underline;">dependent</span> variable, sometimes called an <span style="text-decoration:underline;">outcome</span> variable.</p>]]></topic>
+
+	<topic title="Dependent Variables"><![CDATA[<p>No notes available for this slide.</p>]]></topic>
+	
+	<topic title="Discrete Variables"><![CDATA[<p>Another definition from <a href="http://en.wiktionary.org/wiki/discrete_variable" target="_blank">http://en.wiktionary.org/wiki/discrete_variable</a><br />A variable that takes values from a <span style="text-decoration:underline;">finite</span> or <span style="text-decoration:underline;">countable</span> set, such as the number of legs of an animal.</p>]]></topic>
+				
+</course>
